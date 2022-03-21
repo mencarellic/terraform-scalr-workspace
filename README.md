@@ -1,2 +1,2 @@
-# terraform-cloud-workspace
-An example repo (workspace) managing Hashicorp's Terraform Cloud
+# terraform-scalr-workspace
+An example repo (workspace) managing Scalr
